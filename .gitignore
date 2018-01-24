@@ -1,0 +1,6 @@
+.sass-cache
+media
+*.map
+sass/css/variables.css
+sass/css/mixins.css
+sass/css/reset.css
